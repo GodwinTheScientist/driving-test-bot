@@ -1,0 +1,4 @@
+selenium
+schedule
+yagmail
+undetected-chromedriver
